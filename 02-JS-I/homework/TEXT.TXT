@@ -1,0 +1,6 @@
+Homework: introduccion a Javascript
+Variables: es la forma de guardar el valor de algo que se usara despues.
+Strings: son palabras o frases y siempre deben estar entre comillas.
+Funciones: estas le indican a los programas que lo que sigue se debe ejecutar y esta acompañada de unos argumentos de como se debe proceder llamados argumentos ademas el concepto return, es la unica forma en que los datos escapan de una funcionpara dar un resultado.
+Declaracion If: es utilizada para afirmar que si se cumple lo que digo coloque verdadero "true" o falso "false" en el lugar.
+Valores booleanos: son los que alimentan los codigos en las computadoras y tienen dos opciones de respuesta "true o false"
